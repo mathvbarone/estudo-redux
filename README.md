@@ -1,25 +1,20 @@
-# ReduxSimpleStarter
+Curso de React + Redux feito pela Udemy. 
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Link: https://www.udemy.com/react-redux/
 
-### Getting Started
 
-There are two methods for getting started with this repo.
+Professor: Stephen Grider
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Tecnologias Utilizadas:
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
+- Javascript
+- HTML
+- CSS
+- React
+- Redux
+- Webpack
+- Git
+- Nodejs
+- Bootstrap
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+Exercício: Construção de um aplicativo de listagem de livros com Redux.
